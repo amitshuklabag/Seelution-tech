@@ -1,6 +1,7 @@
-Thanks for downloading this template!
+This shall be the official website of seelutiontech... 
 
-Template Name: Moderna
-Template URL: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Name: Seelution Tech
+URL will be available at https://seelutiontech.live 
+once the site is up 
+Authors: Brian Michael Masiga
+        Ian Duncan Warutere
